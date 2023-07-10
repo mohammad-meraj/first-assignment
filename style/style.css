@@ -48,7 +48,7 @@
 .feature{
     width: 594px;
     height: 132px;
-    margin-left: 600px;
+    margin-left: 663px;
     text-align: center;
     margin-top: 150px;
 }
@@ -63,8 +63,9 @@
 .feature-flower{
     width: 1440px;
     height: 605px;
-    margin-left: 145px;
-    margin-bottom: 100px;
+    margin: 70px 240px 100px 240px;
+    /* margin-left: 240px;
+    margin-bottom: 100px; */
     display: flex;
     justify-content: space-between;
 }
@@ -99,7 +100,7 @@
 .feature-icon{
     width: 1420px;
     height: 320px;
-    margin-left: 145px;
+    margin-left: 240px;
     background-color: aquamarine;
     
 }
