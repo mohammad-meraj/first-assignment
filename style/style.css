@@ -25,6 +25,7 @@
 }
 .intro-p{
     font-size: 20px;
+    color:  rgb(128, 114, 114);
     margin-bottom: 50px;
 }
 .btn{
@@ -43,3 +44,62 @@
     margin-top: 50px;
 }
 /* Banner END */
+/* Start Feature section */
+.feature{
+    width: 594px;
+    height: 132px;
+    margin-left: 600px;
+    text-align: center;
+    margin-top: 150px;
+}
+.feature-h1{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.feature-p{
+    font-size: 20px;
+    color: rgb(128, 114, 114);
+}
+.feature-flower{
+    width: 1440px;
+    height: 605px;
+    margin-left: 145px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.flower-photo{
+    width: 464px;
+    height: 605px;
+    text-align: center;
+    border-radius:230px 230px 0px 0px;
+}
+.color1{
+    background-color:  rgba(167, 33, 98, 0.15);
+}
+.color2{
+    background-color:   rgba(5, 151, 160, 0.15);
+}
+.color3{
+    background-color:  rgba(71, 125, 17, 0.15);
+}
+.photos{
+    width: 364px;
+    height: 530px;
+    padding-top: 10px;
+  
+}
+.f-h3{
+    background-color: white;
+    height: 72px;
+    padding: 20px;
+    text-decoration: underline;
+    color: rgb(59, 50, 50);
+}
+.feature-icon{
+    width: 1420px;
+    height: 320px;
+    margin-left: 145px;
+    background-color: aquamarine;
+    
+}
