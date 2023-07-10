@@ -3,3 +3,43 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* Banner section */
+.banner{
+    width: 100vw;
+    height: 850px;
+    background-color: #FCEEF1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 96px;
+}
+.introduction{
+    width: 708px;
+    height:506px;
+    text-align:start;
+    padding: 20px;
+}
+.intro-h1{
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+.intro-p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.btn{
+    width: 160px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+    background-color: #E55473;
+    color: white;
+    font-size: 22px;
+    font-weight: 500;
+}
+.flower{
+    width: 635px;
+    height: 800px;
+    margin-top: 50px;
+}
+/* Banner END */
