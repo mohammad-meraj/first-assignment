@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+span{
+    color: #E55473;
+}
 /* Banner section */
 .banner{
     width: 100vw;
@@ -102,5 +105,43 @@
     height: 320px;
     margin-left: 240px;
     background-color: aquamarine;
-    
+    margin-bottom: 100px;
+}
+/* end of feature */
+/* sign up section */
+.sign-up{
+    width: 100vw;
+    height: 620px;
+    background-color: #FCEEF1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-bottom: 100px;
+}
+.sign-text{
+    width: 594px;
+    height: 228px;
+    margin-left: 395px;
+    text-align: center;
+}
+.sign-photo{
+    width: 318px;
+    height: 420px;
+    margin-right: 429px;
+}
+.sign-h2{
+    font-size: 35px;
+    margin-bottom: 30px;
+}
+.btn2{
+    width: 150px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+     background-color: #E55473;
+     color: white;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 30px;
 }
