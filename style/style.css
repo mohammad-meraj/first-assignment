@@ -101,7 +101,7 @@ span{
     color: rgb(59, 50, 50);
 }
 .feature-icon{
-    width: 1420px;
+    width: 1440px;
     height: 320px;
     margin-left: 240px;
     background-color: aquamarine;
@@ -144,4 +144,19 @@ span{
     font-size: 22px;
     font-weight: 500;
     margin-top: 30px;
+}
+/* star instagram section */
+.insta-frame{
+    width: 1440px;
+    height: 396px;
+    margin: 50px 0px 100px 240px;
+    /* margin-left: 240px;
+    margin-top: 50px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.insta-flower{
+    width: 342px;
+    height: 396px;
 }
