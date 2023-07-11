@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
 }
 span{
     color: #E55473;
@@ -27,9 +29,10 @@ span{
     margin-bottom: 50px;
 }
 .intro-p{
-    font-size: 20px;
+    font-size: 19px;
     color:  rgb(128, 114, 114);
     margin-bottom: 50px;
+    line-height: 35px;
 }
 .btn{
     width: 160px;
@@ -60,7 +63,7 @@ span{
     margin-bottom: 20px;
 }
 .feature-p{
-    font-size: 20px;
+    font-size: 16px;
     color: rgb(128, 114, 114);
 }
 .feature-flower{
@@ -232,4 +235,27 @@ span{
 .email-p{
     font-size: 18px;
     margin-bottom: 50px;
+}
+/* footer section */
+footer{
+    width: 100vw;
+    height: 449px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-contain{
+    color: white;
+    text-align: center;
+}
+.footer-contain h2{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.footer-contain p{
+    margin-bottom: 10px;
+}
+.p-color{
+    color: rgb(139, 130, 130);
 }
