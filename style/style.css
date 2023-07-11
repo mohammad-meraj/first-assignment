@@ -107,8 +107,22 @@ span{
     width: 1440px;
     height: 320px;
     margin-left: 240px;
-    background-color: aquamarine;
+    background-color: rgba(39, 39, 39, 0.05);
     margin-bottom: 100px;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+.feature-icon-div{
+    width: 372px;
+    height: 320px;
+    text-align: center;
+    padding-top: 70px;
+}
+.icon-image{
+    width: 150px;
+    margin-bottom: 20px;
 }
 /* end of feature */
 /* sign up section */
